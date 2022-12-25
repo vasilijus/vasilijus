@@ -9,12 +9,11 @@ On my second course which is - AWS Certified Developer
 
 ### 📫 How to reach me ...
 
-| vasiliokas@gmail.com ||
+| Portfolio | [sergiobasic.com](https://sergiobasic.com) |
 | ---| --- |
 | LinkedIn | [linkedin.com/in/sergejvasiljev](https://www.linkedin.com/in/sergejvasiljev) |
 | GitHub | [github.com/vasilijus](https://github.com/vasilijus) |
-| Portfolio | [sergiobasic.com](https://sergiobasic.com) |
-
+| eMail | vasiliokas@gmail.com |
 <!---
 vasilijus/vasilijus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
